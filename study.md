@@ -51,3 +51,9 @@
 - webpack
 
 - babel
+
+- eslint
+
+- husky
+
+- lint-stage
